@@ -12,7 +12,6 @@ use Illuminate\Support\Facades\File;
 
 class AuthController extends Controller
 {
-    hello 
     public function login()
     {
         return view('user.login');
